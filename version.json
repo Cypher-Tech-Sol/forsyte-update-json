@@ -2,6 +2,6 @@
   "latestVersionCode": 3,
   "latestVersionName": "1.0.1",
   "apkUrl": "https://github.com/Cypher-Tech-Sol/forsyte-lite-rf/releases/download/v1.0.1/forsyte-lite-rf-v1.0.1.apk",
-  "releaseNotes": "Build for update-banner milestone testing.",
+  "releaseNotes": "Initial test build for update-banner milestone.",
   "critical": false
 }
